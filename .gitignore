@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Fuente y salidas regenerables
+data/raw/*.xlsx
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/README.md
+
+# Configuración local
+.vscode/

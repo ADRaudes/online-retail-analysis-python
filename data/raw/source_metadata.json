@@ -1,0 +1,12 @@
+{
+  "dataset": "Online Retail",
+  "publisher": "UCI Machine Learning Repository",
+  "source_page": "https://archive.ics.uci.edu/dataset/352/online-retail",
+  "download_url": "https://archive.ics.uci.edu/static/public/352/online+retail.zip",
+  "doi": "https://doi.org/10.24432/C5BW33",
+  "license": "CC BY 4.0",
+  "downloaded_on": "2026-07-30",
+  "local_file": "Online Retail.xlsx",
+  "size_bytes": 23715344,
+  "sha256": "43465a06f2ccf7c8b5bd2892bc7defb52f97487934fe93b16ae4c3936424676d"
+}
